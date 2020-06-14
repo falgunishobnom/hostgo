@@ -1,0 +1,181 @@
+/*
+================================================
+Common CSS
+================================================
+*/
+.heading-line:before {
+	background: #33d685;
+}
+.heading-line:after {
+	background: #33d685;
+}
+.heading-line {
+	border-bottom: 1px solid #33d685;
+}
+.home-slider-area .carousel-indicators li {
+	backface-visibility: visible;
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #33D685;
+	border-radius: 0;
+	height: 14px;
+	margin: 5px 7px;
+	transition: opacity 0.2s ease 0s;
+	width: 14px;
+}
+.home-slider-area .carousel-indicators .active {
+	background: #33d685;
+	border: 1px solid #fff;
+}
+#switcher .theme-click {
+	background-color: #33d685;
+}
+.section-title h2 span {
+	color: #33d685;
+}
+a.welcome-control:focus, a.welcome-control:hover i {
+	color: #33d685
+}
+/*
+================================================
+Scroll top Arrow
+================================================
+*/
+#scrollUp i:hover {
+	color: #33d685;
+}
+/*
+================================================
+Navigation
+================================================
+*/
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+	color: #33d685;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+	color: #33d685;
+}
+.menu-bg .logo a, .menu-bg .navbar-default .navbar-nav li a:hover {
+	color: #33d685;
+}
+/*
+================================================
+Banner Content
+================================================
+*/
+a.slide-btn {
+	background: #33d685;
+}
+/*
+================================================
+Domain Search
+================================================
+*/
+.domain-search .search-section .searchsubmit {
+	background: #33d685;
+}
+.domain-price {
+	color: #33d685;
+}
+/*
+================================================
+Our Team
+================================================
+*/
+.team-cnt .text p.button a {
+	background: #33d685;
+}
+.team-cnt .item .social-icons ul li a {
+	background: #33d685;
+}
+.team-cnt .item .social-icons ul li a:hover {
+	color: #33d685;
+}
+.team-cnt .inner {
+	border: 1px solid #33d685;
+}
+.team-cnt .text p.button a:hover {
+	color: #33d685;
+	border: 1px solid #33d685;
+}
+.team-cnt .text h3 a:hover {
+	color: #33d685;
+}
+/*
+================================================
+About Us
+================================================
+*/
+.about-box .btn:hover {
+	border-color: #33d685;
+	border-left: 2px solid #33d685;
+	border-right: 2px solid #33d685;
+}
+/*
+================================================
+Services
+================================================
+*/
+.service-callouts .service-box h3 {
+	color: #33d685;
+}
+/*
+================================================
+Testimonials Wrapper 
+================================================
+*/	
+.testimonials-wrapper p:before {
+	color: #33d685;
+}
+.testimonials-wrapper p:after {
+	color: #33d685;
+}
+.testimonials-wrapper h3 span {
+	color: #33d685;
+}
+.testimonials-wrapper .carousel-indicators li {
+	border: 2px solid #33d685;
+}
+.testimonials-wrapper .carousel-indicators .active {
+	background-color: #33d685;
+}
+/*
+================================================
+Blog
+================================================
+*/
+.blog-wrapper .post-meta i {
+	color: #33d685;
+}
+.blog-wrapper a.blog-btn {
+	background: #33d685;
+}
+/*
+================================================
+Pricing Table
+================================================
+*/
+.pricing-table-wrapper .price-item.active button, .pricing-table-wrapper .price-item button:hover {
+	background-color: #33d685;
+	border: 1px solid #33d685;
+	color: #fff;
+}
+.price-item.active .price-kind {
+	background: #33d685;
+}
+/*
+================================================
+Contact us
+================================================
+*/
+.contact-form .form-group:before {
+	color: #33d685;
+}
+.contact-form .btn {
+	background: #33d685;
+}
+.social-links li a:hover i {
+	background-color: #33d685;
+}
+footer {
+	background: #33d685;
+}
